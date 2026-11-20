@@ -1,0 +1,6 @@
+{
+  "name": "HPSL Plant Access Security",
+  "description": "Industrial plant access control, visitor request workflow, gate security check-in, host notifications, and offline-capable audit management system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
